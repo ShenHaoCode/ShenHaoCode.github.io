@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>MarkDown 语法</title>
+      <link href="/2020/07/10/MarkDownNotes/"/>
+      <url>/2020/07/10/MarkDownNotes/</url>
+      
+        <content type="html"><![CDATA[<p>Markdown 是一种轻量级标记语言，创始人为约翰·格鲁伯。它允许人们“使用易读易写的纯文本格式编写文档，然后转换成有效的XHTML文档”。这种语言吸收了很多在电子邮件中已有的纯文本标记的特性。</p><p>本页整理常用的 Markdown 语法，方便使用时随时查阅参考，会及时更新。</p><h2 id="标题段落"><a href="#标题段落" class="headerlink" title="标题段落"></a>标题段落</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> 笔记 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 笔记 </tag>
+            
+            <tag> MarkDown </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Redis</title>
       <link href="/2020/07/07/RedisNotes/"/>
       <url>/2020/07/07/RedisNotes/</url>
